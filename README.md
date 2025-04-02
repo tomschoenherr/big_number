@@ -6,8 +6,6 @@ A tool to extract and identify the largest numbers in PDF documents, with intell
 
 This project finds both the largest raw number and the largest contextually modified number in a PDF document. It's particularly useful for financial documents where numbers may be expressed in different scales (thousands, millions, billions) indicated by context.
 
-For example, in a financial table showing "Revenue ($M)", the tool will recognize that a value of "30,704.1" actually represents $30,704,100,000 and properly identify it as a modified value.
-
 ## Features
 
 - Extracts text from PDF documents
@@ -21,6 +19,7 @@ For example, in a financial table showing "Revenue ($M)", the tool will recogniz
 
 - Python 3.6 or higher
 - PyMuPDF (fitz) for PDF processing
+- PyMyPDF4LLM
 - tkinter for the file selection dialog
 
 ## Installation
