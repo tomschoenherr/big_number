@@ -15,33 +15,14 @@ This project finds both the largest raw number and the largest contextually modi
 - Handles various number formats (with commas, decimals, scientific notation)
 - Provides detailed context information for verification
 
-## Requirements
-
-- Python 3.6 or higher
-- PyMuPDF (fitz) for PDF processing
-- PyMyPDF4LLM
-- tkinter for the file selection dialog
-
 ## Installation
 
 1. Clone this repository or download the source files
 2. Install the required dependencies:
 
 ```bash
-pip install pymupdf
-```
+pip install -r requirements.txt
 
-tkinter usually comes with Python, but if you need to install it separately:
-
-```bash
-# For Ubuntu/Debian
-sudo apt-get install python3-tk
-
-# For macOS with Homebrew
-brew install python-tk
-
-# For Windows
-# tkinter is included with the Python installer
 ```
 
 ## File Structure
