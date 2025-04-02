@@ -1,0 +1,38 @@
+archspec @ file:///home/conda/feedstock_root/build_artifacts/archspec_1737352602016/work
+boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1733827268945/work
+Brotli @ file:///D:/bld/brotli-split_1725267609074/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1734380492396/work/certifi
+cffi @ file:///D:/bld/cffi_1725560655177/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1735929714516/work
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+conda @ file:///D:/bld/conda_1736460255649/work
+conda-libmamba-solver @ file:///home/conda/feedstock_root/build_artifacts/conda-libmamba-solver_1727359833193/work/src
+conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1736345463896/work
+conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1729004031731/work
+distro @ file:///home/conda/feedstock_root/build_artifacts/distro_1734729835256/work
+frozendict @ file:///D:/bld/frozendict_1728841449408/work
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1733298745555/work
+hpack @ file:///home/conda/feedstock_root/build_artifacts/hpack_1733299205993/work
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1733298771451/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1733211830134/work
+jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1733814567314/work
+jsonpointer @ file:///D:/bld/jsonpointer_1725303007361/work
+libmambapy @ file:///D:/bld/mamba-split_1735835745085/work/libmambapy
+mamba @ file:///D:/bld/mamba-split_1735835745085/work/mamba
+menuinst @ file:///D:/bld/menuinst_1731146986828/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1733203243479/work
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1733232627818/work
+pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1733222765875/work
+pycosat @ file:///D:/bld/pycosat_1732588446214/work
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
+PySocks @ file:///D:/bld/pysocks_1733217287171/work
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1733217035951/work
+ruamel.yaml @ file:///D:/bld/ruamel.yaml_1736248050795/work
+ruamel.yaml.clib @ file:///D:/bld/ruamel.yaml.clib_1728724639208/work
+setuptools==75.8.0
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+truststore @ file:///home/conda/feedstock_root/build_artifacts/truststore_1729762363021/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1734859416348/work
+wheel==0.45.1
+win_inet_pton @ file:///D:/bld/win_inet_pton_1733130564612/work
+zstandard==0.23.0
